@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Effective_CPP_2022-8-30/28.h
+memory
+-
+
+E:/Effective_CPP_2022-8-30/main.cpp
+iostream
+-
+28.h
+E:/Effective_CPP_2022-8-30/28.h
+

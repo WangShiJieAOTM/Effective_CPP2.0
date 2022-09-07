@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Effective_CPP_2022_8_30"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/Effective_CPP_2022-8-30/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Effective_CPP_2022_8_30">
+				<Option output="E:/Effective_CPP_2022-8-30/cmake-build-debug/Effective_CPP_2022_8_30.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Effective_CPP_2022-8-30/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/QT/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/QT/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/QT/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/QT/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/QT/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/QT/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 Effective_CPP_2022_8_30"/>
+					<CompileFile command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Effective_CPP_2022_8_30/fast">
+				<Option output="E:/Effective_CPP_2022-8-30/cmake-build-debug/Effective_CPP_2022_8_30.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Effective_CPP_2022-8-30/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/QT/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/QT/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/QT/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/QT/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/QT/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/QT/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 Effective_CPP_2022_8_30/fast"/>
+					<CompileFile command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/Effective_CPP_2022-8-30/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/Effective_CPP_2022-8-30/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/QT/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/Effective_CPP_2022-8-30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/Effective_CPP_2022-8-30/01.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/02.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/03.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/04.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/05.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/06.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/07.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/08.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/09.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/10.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/11.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/12.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/13.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/14.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/15.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/16.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/17.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/18.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/19.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/20.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/21.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/22.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/23.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/24.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/25.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/26.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/27.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/28.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/29.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/30.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/31.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/32.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/33.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/34.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/35.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/36.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/37.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/38.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/39.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/40.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/41.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/42.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/43.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/44.h">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/main.cpp">
+			<Option target="Effective_CPP_2022_8_30"/>
+		</Unit>
+		<Unit filename="E:/Effective_CPP_2022-8-30/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
